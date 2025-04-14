@@ -1,7 +1,7 @@
 # Projeto X-Men: Seleção de Personagens
 
 Este projeto foi desenvolvido por **Eleandro** como parte do curso **Dev em Dobro Full Stack**.
-
+![Interface interativa para selecionar personagens dos X-Men](src/imagens/Animation-x-men.gif)
 ## Descrição
 
 O projeto consiste em uma interface interativa para selecionar personagens dos X-Men. Ao clicar em um personagem, suas informações são exibidas em destaque, incluindo uma imagem maior, o nome e uma descrição.
