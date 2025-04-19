@@ -27,7 +27,7 @@ main {
 .cabecalho {
 	display: flex;
 	justify-content: center;
-    margin-top: 20px; /* Adicionado para posicionar o cabeçalho abaixo */
+    margin-top: 20px;
 }
 
 .selecao-de-personagens {
